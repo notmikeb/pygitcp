@@ -1,7 +1,12 @@
 # Welcome to StackEdit!
 
 
-在左邊的選
+在左邊的設定
+可以選擇workspace, 然後加入一個github的workspace, 這樣就可選擇一個放在github的寫作空間了
+不用安裝stackedit.io , 而是直接連到stackedit.io 然後允許去讀取github repoitory 這樣就可以在網頁上編寫資料, ㄦ
+
+
+
 gitbook howto
 [https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html](https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html)
 
@@ -147,5 +152,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY1MDYxMjYsMTY1NDY5Njk3Nl19
+eyJoaXN0b3J5IjpbMTA1MTI5NDEwOCwxNjU0Njk2OTc2XX0=
 -->
