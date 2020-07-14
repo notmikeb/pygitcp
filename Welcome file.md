@@ -1,5 +1,7 @@
 # Welcome to StackEdit!
 
+
+在左邊的選
 gitbook howto
 [https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html](https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html)
 
@@ -145,5 +147,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDY5Njk3Nl19
+eyJoaXN0b3J5IjpbLTE5MTY1MDYxMjYsMTY1NDY5Njk3Nl19
 -->
