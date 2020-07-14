@@ -3,6 +3,8 @@ this file is created by local and push it to github-repo
 haha 這個修改在網路上的修改
 可以看到囉～～～
 
+
+試著加入javascript 的source code
 ```js
 const scrollToBottom = targetElement => {  
  targetElement.scrollTo({  
@@ -11,6 +13,13 @@ const scrollToBottom = targetElement => {
  });  
 };
 ```
+
+測試加入c lang 的source code
+```c
+int main(){
+return 0;
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQxOTYxMTRdfQ==
+eyJoaXN0b3J5IjpbLTE1MzcwNTU2NzJdfQ==
 -->
