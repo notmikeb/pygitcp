@@ -3,7 +3,9 @@
 
 在左邊的設定
 可以選擇workspace, 然後加入一個github的workspace, 這樣就可選擇一個放在github的寫作空間了
-不用安裝stackedit.io , 而是直接連到stackedit.io 然後允許去讀取github repoitory 這樣就可以在網頁上編寫資料, ㄦ
+不用安裝stackedit.io , 而是直接連到stackedit.io 然後允許去讀取github repoitory 這樣就可以在網頁上編寫資料, 而且在世界各地都可以存取了
+他的修改都會寫到 github repo裡面, 所有的檔案會變成一個 *.md
+所以整個 repo讀取之後, 很容易就會發現到有新的檔案或是儲存檔案
 
 
 
@@ -152,5 +154,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTI5NDEwOCwxNjU0Njk2OTc2XX0=
+eyJoaXN0b3J5IjpbNTQ1OTkxOTMyLDE2NTQ2OTY5NzZdfQ==
 -->
