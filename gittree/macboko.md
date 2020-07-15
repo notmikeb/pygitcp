@@ -16,7 +16,11 @@ airpod 是 5290, 但我升級airpod pro 版本 7990 (多花了2700)
 這樣總共 55410 +7990 = 63400
 
 
-6390
+63900 + 7990 = 71890 => 0.88 折
+12% line point = 7608
+63400 - 7608 =  55792 
+55792/71890 = 0.77 折, 步道
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwODkzMTc3XX0=
+eyJoaXN0b3J5IjpbLTY1NTkzNDQ5OV19
 -->
