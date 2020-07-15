@@ -24,7 +24,11 @@ airpod 是 5290, 但我升級airpod pro 版本 7990 (多花了2700)
 
 ### 2020 MBP 比較
 
+youtube 有比較的
+[https://www.youtube.com/watch?v=jK3AOK8uDJo](https://www.youtube.com/watch?v=jK3AOK8uDJo)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODk1MTUyXX0=
+eyJoaXN0b3J5IjpbLTEyMTc2OTE0ODJdfQ==
 -->
