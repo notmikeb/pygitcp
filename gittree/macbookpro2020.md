@@ -28,7 +28,7 @@ youtube 有比較的
 [https://www.youtube.com/watch?v=jK3AOK8uDJo](https://www.youtube.com/watch?v=jK3AOK8uDJo)
 
 cpu 有差別
-![enter image description here](./macbookpro/mbp2020_fan.jpg)
+![mbp2020_fan](./macbookpro/mbp2020_fan.png)
 拆開的風扇數量有差別
 
 跑benchmark app有差別
