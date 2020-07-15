@@ -30,11 +30,10 @@ youtube 有比較的
 cpu 有差別
 ![mbp2020_fan](./macbookpro/mbp2020_compare.png)
 拆開的風扇數量有差別
-[https://github.com/notmikeb/pygitcp/blob/master/gittree/macbookpro/mbp2020_fan.png](https://github.com/notmikeb/pygitcp/blob/master/gittree/macbookpro/mbp2020_fan.png)
+![mbp2020_fan](./macbookpro/mbp2020_fan.png)
 跑benchmark app有差別
-[https://github.com/notmikeb/pygitcp/blob/master/gittree/macbookpro/mbp2020_benchmark.png](https://github.com/notmikeb/pygitcp/blob/master/gittree/macbookpro/mbp2020_benchmark.png)
-
+![mbp2020_fan](./macbookpro/mbp2020_benchmark.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxMjExNDY4LC01NjczNTkxMTJdfQ==
+eyJoaXN0b3J5IjpbNDc4MTY1OTA4LC01NjczNTkxMTJdfQ==
 -->
