@@ -3,7 +3,7 @@
 
 底下優惠都可以一起使用
 * Back to School (20200709~20200908左右)
-   * Send airpod 2  
+   * 送 airpod 2  (5290)
    * 92折 
 * Line Store 進入到 apple 網站 (20200710 這一天而已, 其他天都5%, 不知道可以有多久)
     * 10%
@@ -23,11 +23,15 @@ airpod 是 5290, 但我升級airpod pro 版本 7990 (多花了2700)
 55792/71890 = 0.77 折
 這應該是目前知道的最便宜的價格. 如果在costco 買是差不多95折, 使用costco卡也頂多回饋1%, 變94折.
 
-### 到 studio A 購買
+### 到 studio A 購買 macbook pro 2020 版本
 
+底下優惠都可以一起使用
 * BTS
 * 滿萬送500
-* apple-care+ 打吧
+* apple-care+ 打八折 (9500 * 0.8)
+* 信用卡回饋2%
+
+這樣算下來也是差不多, 但是沒有 line store 進去買的10% line point 回饋.
 
 ### 2020 MBP 比較
 
@@ -44,6 +48,6 @@ cpu 有差別
 ![mbp2020_benchmark](./macbookpro/mbp2020_benchmark.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjA5MDI5NywtODkyNTI1NzMwLDQ3OD
+eyJoaXN0b3J5IjpbLTYzMTEwNTAwNSwtODkyNTI1NzMwLDQ3OD
 E2NTkwOCwtNTY3MzU5MTEyXX0=
 -->
