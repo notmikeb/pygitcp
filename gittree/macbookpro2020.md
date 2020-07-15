@@ -29,10 +29,12 @@ youtube 有比較的
 
 cpu 有差別
 
+拆開的風扇數量有差別
 
+跑benchmark app有差別
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjMwMjA4Nl19
+eyJoaXN0b3J5IjpbNTE0MTQ1OTYyXX0=
 -->
