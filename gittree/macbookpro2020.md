@@ -33,7 +33,7 @@ airpod 是 5290, 但我升級airpod pro 版本 7990 (多花了2700)
 
 這樣算下來也是差不多, 但是沒有 line store 進去買的10% line point 回饋.
 
-### 2020 MBP 比較
+### 2020 MBP 效能比較
 
 youtube 有比較的
 [https://www.youtube.com/watch?v=jK3AOK8uDJo](https://www.youtube.com/watch?v=jK3AOK8uDJo)
@@ -48,6 +48,6 @@ cpu 有差別
 ![mbp2020_benchmark](./macbookpro/mbp2020_benchmark.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTEwNTAwNSwtODkyNTI1NzMwLDQ3OD
+eyJoaXN0b3J5IjpbLTg2NTUzODMwNiwtODkyNTI1NzMwLDQ3OD
 E2NTkwOCwtNTY3MzU5MTEyXX0=
 -->
