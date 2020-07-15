@@ -1,11 +1,11 @@
 
 ## buy macbook pro 2020 version
 
-bonus
-* Back to School 
+底下優惠都可以一起使用
+* Back to School (20200709~20200908左右)
    * Send airpod 2  
    * 92折 
-* Line Store 進入到 apple 網站
+* Line Store 進入到 apple 網站 (20200710 這一天而已, 
     * 10%
 * Credit Card 回饋
     * 2%
@@ -35,6 +35,6 @@ cpu 有差別
 ![mbp2020_benchmark](./macbookpro/mbp2020_benchmark.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODE5ODAzNiw0NzgxNjU5MDgsLTU2Nz
-M1OTExMl19
+eyJoaXN0b3J5IjpbLTE2Nzg2NjcyOTEsNDc4MTY1OTA4LC01Nj
+czNTkxMTJdfQ==
 -->
