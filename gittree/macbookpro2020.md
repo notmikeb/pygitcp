@@ -5,9 +5,9 @@
 * Back to School (20200709~20200908左右)
    * Send airpod 2  
    * 92折 
-* Line Store 進入到 apple 網站 (20200710 這一天而已, 
+* Line Store 進入到 apple 網站 (20200710 這一天而已, 其他天都5%, 不知道可以有多久)
     * 10%
-* Credit Card 回饋
+* Credit Card 回饋 (2020整年的信用卡都有)
     * 2%
 
 20200710 22:00 左右購買, 要求2天內傳送購買教育價資格文件, 而且收件人必須是哪一個學生
@@ -35,6 +35,6 @@ cpu 有差別
 ![mbp2020_benchmark](./macbookpro/mbp2020_benchmark.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg2NjcyOTEsNDc4MTY1OTA4LC01Nj
-czNTkxMTJdfQ==
+eyJoaXN0b3J5IjpbLTg5MjUyNTczMCw0NzgxNjU5MDgsLTU2Nz
+M1OTExMl19
 -->
