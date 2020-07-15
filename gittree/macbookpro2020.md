@@ -20,7 +20,14 @@ airpod 是 5290, 但我升級airpod pro 版本 7990 (多花了2700)
 63900 + 7990 = 71890 => 0.88 折
 12% line point = 7608
 63400 - 7608 =  55792 
-55792/71890 = 0.77 折, 也還是不到75折
+55792/71890 = 0.77 折
+這應該是目前知道的最便宜的價格. 如果在costco 買是差不多95折, 使用costco卡也頂多回饋1%, 變94折.
+
+### 到 studio A 購買
+
+* BTS
+* 滿萬送500
+* apple-care+ 打吧
 
 ### 2020 MBP 比較
 
@@ -37,6 +44,6 @@ cpu 有差別
 ![mbp2020_benchmark](./macbookpro/mbp2020_benchmark.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjUyNTczMCw0NzgxNjU5MDgsLTU2Nz
-M1OTExMl19
+eyJoaXN0b3J5IjpbLTUwNjA5MDI5NywtODkyNTI1NzMwLDQ3OD
+E2NTkwOCwtNTY3MzU5MTEyXX0=
 -->
