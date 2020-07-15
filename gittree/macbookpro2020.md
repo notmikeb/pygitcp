@@ -27,8 +27,14 @@ airpod 是 5290, 但我升級airpod pro 版本 7990 (多花了2700)
 youtube 有比較的
 [https://www.youtube.com/watch?v=jK3AOK8uDJo](https://www.youtube.com/watch?v=jK3AOK8uDJo)
 
+cpu 有差別
+
+拆開的風扇數量有差別
+
+跑benchmark app有差別
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc2OTE0ODJdfQ==
+eyJoaXN0b3J5IjpbNTE0MTQ1OTYyXX0=
 -->
