@@ -53,11 +53,17 @@ cpu 有差別
 
 像是目前a12x  arm 使用的是 7nanometer 技術
 如果照比較圖表, 一但使用了 5 or 3 nm 技術生產
-硬體架構都不改, 就可以有效能根號
+硬體架構都不改, 就可以有效能跟省電上的提升
+
+另外本來apple 請其他GPU廠商特別提供GPU特殊版本
+也可以使用apple 自已的版本
+可以整合進CPU裡面, 讓CPU & GPU 直接溝通, 不用中間的cache 處理, 減少 path 上的latency
+
+另外在目前c
 
 [https://www.youtube.com/watch?v=ZtO2z5JATVU](https://www.youtube.com/watch?v=ZtO2z5JATVU)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNTE0NTEwOCwtODY1NTM4MzA2LC04OT
-I1MjU3MzAsNDc4MTY1OTA4LC01NjczNTkxMTJdfQ==
+eyJoaXN0b3J5IjpbLTE1NTg2ODI1NjIsLTg2NTUzODMwNiwtOD
+kyNTI1NzMwLDQ3ODE2NTkwOCwtNTY3MzU5MTEyXX0=
 -->
