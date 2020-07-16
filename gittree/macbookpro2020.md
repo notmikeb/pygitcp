@@ -54,18 +54,21 @@ cpu 有差別
 像是目前a12x  arm 使用的是 7nanometer 技術
 如果照比較圖表, 一但使用了 5 or 3 nm 技術生產
 硬體架構都不改, 就可以有效能跟省電上的提升
+[https://www.youtube.com/watch?v=ZtO2z5JATVU](https://www.youtube.com/watch?v=ZtO2z5JATVU)
 
 另外本來apple 請其他GPU廠商特別提供GPU特殊版本
 也可以使用apple 自已的版本
 可以整合進CPU裡面, 讓CPU & GPU 直接溝通, 不用中間的cache 處理, 減少 path 上的latency
+這個約在影片2:49分的時候講解
 
 另外在目前cpu 的比較數值上, 的確 intel CPU 比較好看, 配合的GPU 也數值驚人
 但是一但對比ipad pro同樣的影片剪輯, 加上特別的指令集(??)
-反反ㄜ
+反而處理的速度更快了, 這代表數字不能真實的表現出實際使用上的感覺
+這個約在影片
 
 [https://www.youtube.com/watch?v=ZtO2z5JATVU](https://www.youtube.com/watch?v=ZtO2z5JATVU)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDcwODk5NzgsLTg2NTUzODMwNiwtOD
-kyNTI1NzMwLDQ3ODE2NTkwOCwtNTY3MzU5MTEyXX0=
+eyJoaXN0b3J5IjpbNTM5MjUzNjI0LC04NjU1MzgzMDYsLTg5Mj
+UyNTczMCw0NzgxNjU5MDgsLTU2NzM1OTExMl19
 -->
