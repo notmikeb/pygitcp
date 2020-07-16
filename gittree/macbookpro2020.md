@@ -69,7 +69,11 @@ cpu 有差別
 
 [https://www.youtube.com/watch?v=ZtO2z5JATVU](https://www.youtube.com/watch?v=ZtO2z5JATVU)
 
+
+ditching - abandon 的非正式用法
+[https://www.bbc.co.uk/learningenglish/chinese/features/q-and-a/ep-161012](https://www.bbc.co.uk/learningenglish/chinese/features/q-and-a/ep-161012)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUxNjU5NzMsLTg2NTUzODMwNiwtOD
-kyNTI1NzMwLDQ3ODE2NTkwOCwtNTY3MzU5MTEyXX0=
+eyJoaXN0b3J5IjpbLTIxMjA4OTc5NzEsLTE1OTUxNjU5NzMsLT
+g2NTUzODMwNiwtODkyNTI1NzMwLDQ3ODE2NTkwOCwtNTY3MzU5
+MTEyXX0=
 -->
