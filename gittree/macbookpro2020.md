@@ -59,11 +59,13 @@ cpu 有差別
 也可以使用apple 自已的版本
 可以整合進CPU裡面, 讓CPU & GPU 直接溝通, 不用中間的cache 處理, 減少 path 上的latency
 
-另外在目前c
+另外在目前cpu 的比較數值上, 的確 intel CPU 比較好看, 配合的GPU 也數值驚人
+但是一但對比ipad pro同樣的影片剪輯, 加上特別的指令集(??)
+反反ㄜ
 
 [https://www.youtube.com/watch?v=ZtO2z5JATVU](https://www.youtube.com/watch?v=ZtO2z5JATVU)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg2ODI1NjIsLTg2NTUzODMwNiwtOD
+eyJoaXN0b3J5IjpbLTE4NDcwODk5NzgsLTg2NTUzODMwNiwtOD
 kyNTI1NzMwLDQ3ODE2NTkwOCwtNTY3MzU5MTEyXX0=
 -->
