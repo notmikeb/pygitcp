@@ -54,6 +54,7 @@ cpu 有差別
 像是目前a12x  arm 使用的是 7nanometer 技術
 如果照比較圖表, 一但使用了 5 or 3 nm 技術生產
 硬體架構都不改, 就可以有效能跟省電上的提升
+這個約在影片的5:54分講解
 [https://www.youtube.com/watch?v=ZtO2z5JATVU](https://www.youtube.com/watch?v=ZtO2z5JATVU)
 
 另外本來apple 請其他GPU廠商特別提供GPU特殊版本
@@ -69,6 +70,6 @@ cpu 有差別
 [https://www.youtube.com/watch?v=ZtO2z5JATVU](https://www.youtube.com/watch?v=ZtO2z5JATVU)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODM2MzU5LC04NjU1MzgzMDYsLTg5Mj
-UyNTczMCw0NzgxNjU5MDgsLTU2NzM1OTExMl19
+eyJoaXN0b3J5IjpbLTE1OTUxNjU5NzMsLTg2NTUzODMwNiwtOD
+kyNTI1NzMwLDQ3ODE2NTkwOCwtNTY3MzU5MTEyXX0=
 -->
