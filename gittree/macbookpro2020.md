@@ -64,11 +64,11 @@ cpu 有差別
 另外在目前cpu 的比較數值上, 的確 intel CPU 比較好看, 配合的GPU 也數值驚人
 但是一但對比ipad pro同樣的影片剪輯, 加上特別的指令集(??)
 反而處理的速度更快了, 這代表數字不能真實的表現出實際使用上的感覺
-這個約在影片
+這個約在影片8:15 分的時候講解
 
 [https://www.youtube.com/watch?v=ZtO2z5JATVU](https://www.youtube.com/watch?v=ZtO2z5JATVU)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5MjUzNjI0LC04NjU1MzgzMDYsLTg5Mj
+eyJoaXN0b3J5IjpbMTIwODM2MzU5LC04NjU1MzgzMDYsLTg5Mj
 UyNTczMCw0NzgxNjU5MDgsLTU2NzM1OTExMl19
 -->
