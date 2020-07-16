@@ -47,7 +47,17 @@ cpu 有差別
 跑benchmark app有差別
 ![mbp2020_benchmark](./macbookpro/mbp2020_benchmark.png)
 
+
+### arm macbook pro 預期的效能
+這邊有個技術上的講解比較
+
+像是目前a12x  arm 使用的是 7nanometer 技術
+如果照比較圖表, 一但使用了 5 or 3 nm 技術生產
+硬體架構都不改, 就可以有效能根號
+
+[https://www.youtube.com/watch?v=ZtO2z5JATVU](https://www.youtube.com/watch?v=ZtO2z5JATVU)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTUzODMwNiwtODkyNTI1NzMwLDQ3OD
-E2NTkwOCwtNTY3MzU5MTEyXX0=
+eyJoaXN0b3J5IjpbMTUwNTE0NTEwOCwtODY1NTM4MzA2LC04OT
+I1MjU3MzAsNDc4MTY1OTA4LC01NjczNTkxMTJdfQ==
 -->
